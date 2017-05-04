@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\date_picker_dialog.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\layout-sw600dp-land-v13\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\alarm_clock.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\layout-sw600dp-land\\alarm_clock.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\date_picker_dialog.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\layout-sw600dp-land-v13\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\alarm_clock.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\layout-sw600dp-land\\alarm_clock.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\world_clock_list_item.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\layout-sw600dp-land\\world_clock_list_item.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\world_clock_list_item.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\layout-sw600dp-land\\world_clock_list_item.xml"
+    }
+]

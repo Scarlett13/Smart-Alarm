@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Scarlett\.android\build-cache\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="H:\Android Studio\psm\ori - Copy\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86999c5c9194b35545cb73ae9a68051436890d96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Studio\psm\ori - Copy\LiveRecognition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a7a6ddbd46f0afaaebcff1f9a2c66126391e158">
+        <dex dex="H:\Android Studio\psm\ori - Copy\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0e01f26f3f215d91bb353719d9ab67463f865f6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Scarlett\.android\build-cache\9051f34d83b065b0da29353abd2f7ec69c013747\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="H:\Android Studio\psm\ori - Copy\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_531964534828775fa87076735c5eaaff209ab352\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Scarlett\.android\build-cache\4e27c5343cda337a948054aba6eb74b8e9360ddf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="H:\Android Studio\psm\ori - Copy\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d662493d0a507b03f7db9f52a848253d35bcb38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Studio\psm\ori - Copy\LiveRecognition\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="H:\Android Studio\psm\ori - Copy\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_daab07794910c54b4cf9139b3ae8b5e6a3ba0151\classes.dex" />
+    </item>
+
+</items>
