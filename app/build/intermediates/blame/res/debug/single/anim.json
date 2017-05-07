@@ -1,67 +1,11 @@
 [
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\undim_instant.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\undim_instant.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\unhide.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\unhide.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\unhide_instant.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\unhide_instant.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hide.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\hide.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hide.xml",
@@ -72,32 +16,24 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dim_instant.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\anim\\dim_instant.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dim.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\dim.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\fade_out.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dim_instant.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\dim_instant.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\undim_instant.xml",
@@ -124,24 +60,12 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\anim\\fade_in.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\undim.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\undim.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\anim\\fade_in.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",

@@ -22,29 +22,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 65,
-                    "endOffset": 116
-                },
-                "from": {
-                    "file": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\values-v16\\values-v16.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 65,
-                        "endOffset": 116
-                    }
-                }
-            }
-        ]
     }
 ]

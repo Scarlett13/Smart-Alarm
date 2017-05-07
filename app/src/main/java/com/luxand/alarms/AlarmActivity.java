@@ -145,7 +145,7 @@ public class AlarmActivity extends Activity {
         AlarmStateManager.setSnoozeState(this, mAlarmInstance);
     }
 
-    private void dismiss() {
+    public void dismiss() {
         AlarmStateManager.setDismissState(this, mAlarmInstance);
     }
 

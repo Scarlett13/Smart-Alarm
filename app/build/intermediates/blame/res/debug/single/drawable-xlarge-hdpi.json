@@ -1,9 +1,5 @@
 [
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-hdpi\\dialog.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-xlarge-hdpi\\dialog.9.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-hdpi\\dialog.9.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-xlarge-hdpi\\dialog.9.png"
     }

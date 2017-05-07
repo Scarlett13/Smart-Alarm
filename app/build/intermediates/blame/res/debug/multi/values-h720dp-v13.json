@@ -22,29 +22,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 66,
-                    "endOffset": 117
-                },
-                "from": {
-                    "file": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 66,
-                        "endOffset": 117
-                    }
-                }
-            }
-        ]
     }
 ]

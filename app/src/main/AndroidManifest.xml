@@ -44,7 +44,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".MainActivity"
+        <activity android:name="com.luxand.facerecognition.MainActivity"
             android:screenOrientation="portrait"
             >
             <!--<intent-filter>-->

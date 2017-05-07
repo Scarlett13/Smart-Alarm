@@ -1,4 +1,4 @@
-#Thu May 04 23:26:00 SGT 2017
-base.0=H\:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+#Fri May 05 03:17:21 SGT 2017
+base.0=H\:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
 renamed.0=classes.dex
-file.0=H\:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
+file.0=H\:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

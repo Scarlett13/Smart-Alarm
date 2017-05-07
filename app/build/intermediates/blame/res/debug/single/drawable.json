@@ -1,329 +1,5 @@
 [
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_alarm_alert.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\btn_alarm_alert.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_share.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incall_round_button.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\incall_round_button.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_background_holo_dark.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\activated_background_holo_dark.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_delete.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_label.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_label.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reset.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_reset.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_analog_hour_mipmap.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\clock_analog_hour_mipmap.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\done_background_color.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable\\done_background_color.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar_icon.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\action_bar_icon.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reset.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_reset.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_right.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\btn_strip_trans_right.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bar_onoff.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\indicator_bar_onoff.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_bg.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\footer_bg.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_checkbox.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\red_checkbox.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lap.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_lap.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_fastscroll_thumb.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\red_fastscroll_thumb.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_fastscroll_thumb.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\red_fastscroll_thumb.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_tab.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\alarm_tab.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_right.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\btn_strip_trans_right.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_delete.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_tab.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\alarm_tab.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_button_red.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\main_button_red.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_analog_dial_mipmap.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\clock_analog_dial_mipmap.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm_alert_outerring.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_alarm_alert_outerring.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_middle.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\btn_strip_trans_middle.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\item_background.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_bg.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\footer_bg.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stopwatch_tab.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\stopwatch_tab.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_button_normal.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\main_button_normal.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_underline.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\toggle_underline.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_plusone.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_plusone.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timer_tab.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\timer_tab.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timer_tab.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\timer_tab.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_share.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_left.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\btn_strip_trans_left.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_left.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\btn_strip_trans_left.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_bg_bar.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\header_bg_bar.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\done_background_color_dark.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable\\done_background_color_dark.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_background_normal.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\alarm_background_normal.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\item_background.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_vector_test.xml"
     },
@@ -332,20 +8,28 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\main_button_normal.xml"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_bg.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\header_bg.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incall_round_button.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\incall_round_button.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_analog_minute_mipmap.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\clock_analog_minute_mipmap.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_analog_dial_mipmap.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\clock_analog_dial_mipmap.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_delete.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
@@ -356,24 +40,12 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\action_bar_icon.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_selector.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\clock_selector.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm_alert_snooze.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_alarm_alert_snooze.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_selector.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\clock_selector.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_analog_minute_mipmap.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\clock_analog_minute_mipmap.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_background_normal.xml",
@@ -384,12 +56,12 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\header_bg.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm_alert_dismiss.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_alarm_alert_dismiss.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm_alert_outerring.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_alarm_alert_outerring.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\done_background_color.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable\\done_background_color.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_clock_onoff.xml",
@@ -400,16 +72,28 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reset.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_reset.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_alarm_alert.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\btn_alarm_alert.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_plusone.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_plusone.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_right.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\btn_strip_trans_right.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footer_bg.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\footer_bg.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_checkbox.xml",
@@ -428,12 +112,24 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_alarm_alert_touch_handle.xml"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_fastscroll_thumb.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\red_fastscroll_thumb.xml"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_background_holo_dark.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_underline.xml",
@@ -444,60 +140,48 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_lap.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm_alert_snooze.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_alarm_alert_snooze.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\done_background_color.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable\\done_background_color.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_middle.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\btn_strip_trans_middle.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_alarm_alert_touch_handle.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_alarm_alert_touch_handle.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_tab.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\alarm_tab.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_label.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_label.xml"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_analog_dial_mipmap.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\clock_analog_dial_mipmap.xml"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_middle.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\btn_strip_trans_middle.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -512,32 +196,28 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable\\done_background_color_dark.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backspace.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\ic_backspace.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_bg_bar.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\header_bg_bar.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_alarm.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\add_alarm.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_button_red.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\main_button_red.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incall_round_button.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\incall_round_button.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_plusone.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_plusone.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_tab.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\clock_tab.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timer_tab.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\timer_tab.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
@@ -552,16 +232,16 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_alarm.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\add_alarm.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_left.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\btn_strip_trans_left.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_analog_second_mipmap.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\clock_analog_second_mipmap.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_bg_bar.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\header_bg_bar.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
@@ -580,16 +260,8 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_tab.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\clock_tab.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
@@ -616,14 +288,6 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\ic_backspace.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
@@ -640,15 +304,19 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\indicator_bar_onoff.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_clock_onoff.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable\\indicator_clock_onoff.xml"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background.xml",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable\\item_background.xml"
     }
 ]

@@ -111,12 +111,12 @@ public class DeskClock extends Activity implements LabelDialogFragment.TimerLabe
             int iRedOffline = getApplicationContext().getResources().getColor(R.color.accent_dark);
             String offlineRed= Integer.toHexString(iRedOffline).substring(2);
             mActionBar.setTitle(
-                    Html.fromHtml("LightUpPi <font color='#" + offlineRed + "'>OFFLINE</font>"));
+                    Html.fromHtml("Smart Alarm <font color='#" + offlineRed + "'>OFFLINE</font>"));
         }
     };
     final Runnable lightUpPiOnline = new Runnable() {
         public void run() {
-            mActionBar.setTitle("LightUpPi ONLINE");
+            mActionBar.setTitle("Smart Alarm ONLINE");
         }
     };
 

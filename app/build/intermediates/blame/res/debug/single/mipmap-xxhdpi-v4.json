@@ -1,9 +1,5 @@
 [
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_alarmclock.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_alarmclock.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_alarmclock.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_alarmclock.png"
     }

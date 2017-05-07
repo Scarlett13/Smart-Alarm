@@ -1,63 +1,59 @@
 [
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fastscroll_thumb_default_holo.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\fastscroll_thumb_default_holo.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_idle_alarm_saver_dim.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_idle_alarm_saver_dim.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_dark_red.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_hour.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_hour.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_start_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_start_disabled.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_glowdot.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_glowdot.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_glowdot.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_glowdot.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_holo_dark_red.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_holo_dark_red.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_revert_holo_dark.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_revert_holo_dark.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_home.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_home.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_home.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_home.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_idle_alarm.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_idle_alarm.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lapalternate_disabled.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lapalternate_disabled.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_discard_holo_dark.png",
@@ -76,52 +72,28 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disabled_focused_holo_light_red.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm_small.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm_small.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_selected.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_selected.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_lap.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_lap.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_indicator_off.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_indicator_off.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lapalternate_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lapalternate_pressed.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_disable_focused.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_disable_focused.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_minute.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_minute.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_add_alarm_selected.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_add_alarm_selected.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stop_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_stop_normal.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_holo_dark_red.png",
@@ -132,10 +104,6 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_snooze_activated.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_label_small.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_label_small.png"
     },
@@ -144,12 +112,8 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_clock_face.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_x_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_x_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_pressed_holo_light_red.png",
@@ -160,16 +124,20 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_reset.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_reset.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_timer.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_timer.png"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_globe.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_globe.png"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diamond_red.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_diamond_red.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_stopwatch.png",
@@ -180,692 +148,16 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ringtone.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_ringtone.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disabled_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disabled_holo_light_red.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_label_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_label_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_globe.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_globe.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_time.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_dialog_time.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_backspace_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_backspace_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_plusone_disabled.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_hour.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_hour.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_minute.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_minute.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_stopwatch.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\stat_notify_stopwatch.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_add_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_add_alarm.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_alarm.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_plusone_pressed.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_stopwatch.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\stat_notify_stopwatch.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fastscroll_thumb_default_holo.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\fastscroll_thumb_default_holo.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_revert_holo_dark.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_revert_holo_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_share_pressed.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_dial.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_dial.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_share_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_focused_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_focused_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_reset_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_reset_pressed.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_focused_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_focused_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\stat_notify_alarm.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_down.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_down.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_idle_alarm_saver.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_idle_alarm_saver.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_handle_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_handle_pressed.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_snooze_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_snooze_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_focused_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_focused_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_lap.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_lap.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_plusone_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_alarm_selected.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_alarm_selected.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_round_brightness.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_round_brightness.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_idle_alarm_saver.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_idle_alarm_saver.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_focused_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_focused_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_dial.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_dial.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_focused_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_focused_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_pressed_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_pressed_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_alarm_on.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_alarm_on.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_desk_clock.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_desk_clock.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disabled_focused_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disabled_focused_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_start.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_start.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_second.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_second.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_disabled.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_alarm.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_selected.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_selected.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_pressed_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_pressed_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_done_holo_dark.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_done_holo_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_desk_clock.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_desk_clock.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_pressed.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_noalarms.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_noalarms.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_share_pressed.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_alarms.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_alarms.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_timer.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\stat_notify_timer.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_pressed_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_pressed_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_alarm.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_minute.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_minute.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_focused_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_focused_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_pressed_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_pressed_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_disabled.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_music.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_music.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_stopwatch_activated.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_stopwatch_activated.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_alarms.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_alarms.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_alarm_on.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_alarm_on.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_timer_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_timer_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_focused_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_focused_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stop_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_stop_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_start_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_start_disabled.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_timer.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\stat_notify_timer.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_time.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_dialog_time.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_backspace_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_backspace_pressed.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_clock.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_clock.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_stop.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_stop.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ringtone.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_ringtone.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_add_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_add_alarm.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_up.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_up.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_wakeup_activated.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_wakeup_activated.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_pressed_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_pressed_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_focused_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_focused_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_share_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_radio_xxhdpi_red_14_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\checkbox_radio_xxhdpi_red_14_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_label_small.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_label_small.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_plusone_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_indicator_on.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_indicator_on.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_stopwatch.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_stopwatch.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_desk_clock.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_desk_clock.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_home.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_home.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lapalternate_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lapalternate_disabled.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_snooze_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_snooze_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_lap.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_lap.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_idle_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_idle_alarm.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lapalternate_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lapalternate_disabled.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_dial.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_dial.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_second.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_second.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_plusone_disabled.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_indicator_off.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_indicator_off.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_start.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_start.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_alarm_selected.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_alarm_selected.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_clock_activated.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_clock_activated.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_hour.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_hour.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_timer.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_timer.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_globe.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_globe.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diamond_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_diamond_red.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disabled_holo_light_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disabled_holo_light_red.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_location.png",
@@ -876,20 +168,16 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_focused_holo_light_red.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lapalternate.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lapalternate.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_stop.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_stop.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disabled_focused_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disabled_focused_holo_light_red.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_disabled.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_plusone_disabled.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_handle_pressed.png",
@@ -898,6 +186,14 @@
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_pressed.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_plusone_pressed.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_hour.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_hour.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_minute.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_minute.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
@@ -912,8 +208,12 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_focused_holo_dark_red.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_pressed.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_add_alarm.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_add_alarm.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_stopwatch.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\stat_notify_stopwatch.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
@@ -924,8 +224,20 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm_small.png"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fastscroll_thumb_default_holo.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\fastscroll_thumb_default_holo.png"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_revert_holo_dark.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_revert_holo_dark.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share_pressed.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_share_pressed.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_alarm.png",
@@ -936,40 +248,24 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_gallery.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_gallery.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_gallery.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_focused_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_focused_holo_light_red.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setalarm_holo_dark.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_setalarm_holo_dark.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_round_brightness.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_round_brightness.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_normal.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setalarm_holo_dark.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_setalarm_holo_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_normal.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_normal.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_desk_clock.png",
@@ -984,40 +280,20 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_normal.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diamond_white.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_diamond_white.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_noalarms.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_noalarms.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_brightness.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_brightness.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_idle_alarm_saver_dim.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_idle_alarm_saver_dim.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_location.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_location.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_add.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_add.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_add_alarm_selected.png",
@@ -1028,32 +304,28 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_clock_normal.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_disable.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_disable.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_holo_light_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_light_red.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_snooze_activated.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_snooze_activated.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_snooze_normal.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_snooze_normal.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_timer_activated.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_timer_activated.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_focused_holo_light_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_focused_holo_light_red.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_discard_holo_dark.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_discard_holo_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disabled_holo_dark_red.png",
@@ -1066,10 +338,6 @@
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_start_normal.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_start_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_clock_face.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_clock_face.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
@@ -1088,44 +356,44 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_wakeup_normal.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_normal.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_plusone_normal.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_alarm_selected.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_alarm_selected.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_pressed.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_round_brightness.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_round_brightness.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lapalternate.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lapalternate.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lock_idle_alarm_saver.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lock_idle_alarm_saver.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_down.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_down.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_second.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_second.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_focused_holo_dark_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_focused_holo_dark_red.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_backspace_disabled.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_backspace_disabled.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_dial.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_dial.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_brightness.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_brightness.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_pressed.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_pressed_holo_dark_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_pressed_holo_dark_red.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
@@ -1140,8 +408,8 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_stopwatch_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_stopwatch_normal.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_desk_clock.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_desk_clock.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
@@ -1152,20 +420,24 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_backspace_disabled.png"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notify_start.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_notify_start.png"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_second.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_second.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_diamond_white.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_diamond_white.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_alarm.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_alarm.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
@@ -1176,40 +448,52 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_reset_normal.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_alarm.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_alarm.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_selected.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_selected.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_radio_xxhdpi_red_14_red.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\checkbox_radio_xxhdpi_red_14_red.png"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm_normal.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm_normal.png"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_label_normal.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_label_normal.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_done_holo_dark.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_done_holo_dark.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_timer_normal.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_timer_normal.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_pressed.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_pressed.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_alarm_off.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_alarm_off.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_alarms.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_alarms.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_label_pressed.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_label_pressed.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_timer.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\stat_notify_timer.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_second.png",
@@ -1224,48 +508,60 @@
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fastscroll_thumb_pressed_holo.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\fastscroll_thumb_pressed_holo.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_pressed_holo_dark_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_pressed_holo_dark_red.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_alarm.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_strip_alarm.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_minute.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_minute.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_focused_holo_light_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_focused_holo_light_red.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lap_disabled.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lap_disabled.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_disable_focused.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_disable_focused.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_stopwatch_activated.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_stopwatch_activated.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_reset_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_reset_normal.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_label_pressed.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_label_pressed.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_alarm_on.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_alarm_on.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_pressed_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_pressed_holo_dark_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_hour.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_hour.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_pressed_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_pressed_holo_light_red.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_focused_holo_dark_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_focused_holo_dark_red.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_clock_dial.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\appwidget_clock_dial.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stop_normal.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_stop_normal.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
@@ -1276,12 +572,20 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_pressed.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_stopwatch_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_stopwatch_normal.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_clock_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_clock_normal.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_holo_dark_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_dark_red.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_start_disabled.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_start_disabled.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_stopwatch_normal.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_stopwatch_normal.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disabled_focused_holo_dark_red.png",
@@ -1292,52 +596,16 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_clock.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock_analog_minute.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\clock_analog_minute.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disabled_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disabled_holo_dark_red.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_pressed.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_in_call_round_pressed.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_done_holo_dark.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_done_holo_dark.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_wakeup_activated.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_wakeup_activated.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_indicator_on.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_indicator_on.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_wakeup_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_wakeup_normal.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disabled_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disabled_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_start_normal.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_start_normal.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_in_call_round_disable.png",
@@ -1348,16 +616,20 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_x_normal.png"
     },
     {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_holo_light_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_holo_light_red.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_time.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_dialog_time.png"
+    },
+    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_focused_holo_light_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_focused_holo_light_red.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disabled_holo_light_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disabled_holo_light_red.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
@@ -1372,44 +644,48 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\fastscroll_thumb_pressed_holo.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_ringtone.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_ringtone.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_up.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_up.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_up.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_up.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_alarm_off.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\ic_clock_alarm_off.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_lockscreen_wakeup_activated.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_lockscreen_wakeup_activated.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_holo_dark_red.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_holo_dark_red.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_pressed_holo_light_red.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_pressed_holo_light_red.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
         "source": "C:\\Users\\Scarlett\\.android\\build-cache\\c66e62ff859c4cecfc39eebb0dbd3dd63876a95c\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share_normal.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-hdpi\\ic_share_normal.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clock_strip_music.png",

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\header_bg_bar.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-land\\header_bg_bar.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\header_bg_bar.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-land\\header_bg_bar.xml"
     },
@@ -12,23 +8,11 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable-land\\done_background_color.xml"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\header_bg.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-land\\header_bg.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\done_background_color_dark.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable-land\\done_background_color_dark.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\header_bg.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-land\\header_bg.xml"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\done_background_color_dark.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable-land\\done_background_color_dark.xml"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\done_background_color.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\drawable-land\\done_background_color.xml"
     }
 ]

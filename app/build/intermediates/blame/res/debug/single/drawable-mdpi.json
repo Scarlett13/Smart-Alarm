@@ -4,10 +4,6 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_pressed.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_alarm_focused.9.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_alarm_focused.9.png"
     },
@@ -16,72 +12,40 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\dialog.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_pressed.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_pressed.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\panel_undo_holo.9.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\panel_undo_holo.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_selector_background_pressed.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\list_selector_background_pressed.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_selected.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_selected.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_right_selected.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_selected.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_right_selected.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_selected.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_middle_selected.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_selected.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fastscroll_label_left_holo_dark.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\fastscroll_label_left_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\panel_undo_holo.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\panel_undo_holo.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fastscroll_label_right_holo_dark.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\fastscroll_label_right_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ab_hairline.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\ab_hairline.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\divider_vertical_dark.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\divider_vertical_dark.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_alarm_normal.9.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_alarm_normal.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\a4723fa81225efab425a7d6d3b42321170f19e3b\\output\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_middle_normal.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_normal.9.png"
+    },
+    {
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notification_bg_normal_pressed.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dialog_divider_horizontal_light.9.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\dialog_divider_horizontal_light.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_pressed.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notification_bg_normal.9.png",
@@ -92,156 +56,12 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_pressed.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ab_hairline.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\ab_hairline.9.png"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_activated_holo.9.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\list_activated_holo.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notification_bg_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\notification_bg_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_right_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_middle_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\divider_vertical_dark.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\divider_vertical_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_alarm_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_alarm_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\toggle_underline_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\toggle_underline_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dialog_divider_horizontal_light.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\dialog_divider_horizontal_light.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_selected.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_selected.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_middle_selected.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_selected.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_alarm_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_alarm_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_alarm_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_alarm_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\toggle_underline_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\toggle_underline_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_selector_background_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\list_selector_background_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\a4723fa81225efab425a7d6d3b42321170f19e3b\\output\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notification_bg_normal_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_right_selected.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_selected.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_middle_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\divider_vertical_dark.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\divider_vertical_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_middle_normal.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_normal.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_right_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notification_bg_normal_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ab_hairline.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\ab_hairline.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_right_normal.9.png",
@@ -256,43 +76,31 @@
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\fastscroll_label_left_holo_dark.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_alarm_pressed.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_alarm_pressed.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dialog.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\dialog.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_activated_holo.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\list_activated_holo.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\toggle_underline_normal.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\toggle_underline_normal.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\toggle_underline_activated.9.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\toggle_underline_activated.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_alarm_focused.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\btn_alarm_focused.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_normal.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_normal.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\list_selector_background_pressed.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\list_selector_background_pressed.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_left_selected.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_selected.9.png"
     },
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\toggle_underline_activated.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\toggle_underline_activated.9.png"
+        "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_strip_trans_middle_selected.9.png",
+        "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_selected.9.png"
     },
     {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fastscroll_label_right_holo_dark.9.png",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\src\\main\\res\\drawable-mdpi\\fastscroll_label_right_holo_dark.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\alarm_alert_fullscreen_bg.9.png",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\src\\main\\res\\drawable-mdpi\\alarm_alert_fullscreen_bg.9.png"
-    },
-    {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Scarlett\\.android\\build-cache\\01c55ae50305bfa4146b1f2fd2f36781ce1f73a4\\output\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
     }
 ]

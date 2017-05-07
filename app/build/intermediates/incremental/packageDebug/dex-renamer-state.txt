@@ -1,7 +1,7 @@
-#Thu May 04 23:38:25 SGT 2017
-base.0=H\:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e01f26f3f215d91bb353719d9ab67463f865f6d
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=H\:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_daab07794910c54b4cf9139b3ae8b5e6a3ba0151\\classes.dex
-base.1=H\:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_daab07794910c54b4cf9139b3ae8b5e6a3ba0151
-file.0=H\:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0e01f26f3f215d91bb353719d9ab67463f865f6d\\classes.dex
+#Fri May 05 03:17:22 SGT 2017
+base.0=H\:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15aa34b00d15b6f52faf9df9d5c38bb811ce46be
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0691fa38bfa033f6b4ae2dc6f4c74d70eb6e8e2e\\classes.dex
+base.1=H\:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0691fa38bfa033f6b4ae2dc6f4c74d70eb6e8e2e
+file.0=H\:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15aa34b00d15b6f52faf9df9d5c38bb811ce46be\\classes.dex

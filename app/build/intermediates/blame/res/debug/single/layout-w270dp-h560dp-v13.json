@@ -1,9 +1,5 @@
 [
     {
-        "merged": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\layout-w270dp-h560dp-v13\\date_picker_dialog.xml",
-        "source": "H:\\Android Studio\\psm\\ori - Copy\\LiveRecognition\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\layout-w270dp-h560dp-v13\\date_picker_dialog.xml"
-    },
-    {
         "merged": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\app\\build\\intermediates\\res\\merged\\debug\\layout-w270dp-h560dp-v13\\date_picker_dialog.xml",
         "source": "H:\\Android Studio\\psm\\ori - Copy\\Smart Alarm\\datetimepicker\\build\\intermediates\\bundles\\default\\res\\layout-w270dp-h560dp-v13\\date_picker_dialog.xml"
     }
